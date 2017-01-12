@@ -1,3 +1,6 @@
+// Gary Mannion - G00319609 - OS Project
+// 13-1-17
+
 package server;
 
 public class Account {
